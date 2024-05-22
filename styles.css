@@ -1719,6 +1719,8 @@ align-items: center;
   
 
 }
+    .footer-section{
+    padding: 0px 80px !important;}
 #particles-js {
     z-index: 1009;
     /* Behind all other content but above the background */
@@ -1897,6 +1899,8 @@ align-items: center;
 .hero-frst-col{
     height: 80vh;
 }
+     .footer-section{
+    padding: 0px 80px !important;}
   }
 
 
